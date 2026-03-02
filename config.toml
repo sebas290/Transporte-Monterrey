@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[theme]
+base="dark"
+primaryColor="#ffffffff"          # Rojo acento (ajústalo a tu paleta de Canva)
+backgroundColor="#0E1117"       # Fondo principal
+secondaryBackgroundColor="#ffffffff"  # Paneles y tarjetas
+textColor="#E6E8EB"             # Texto general
+font="sans serif"               # Usaremos fuente personalizada vía CSS
